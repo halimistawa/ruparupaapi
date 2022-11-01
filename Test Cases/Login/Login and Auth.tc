@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login RR</description>
+   <name>Login and Auth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0811f13-f1ef-4f5c-a39c-c5e70c9a0d88</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>ce98950e-66de-4f2c-9380-9f78b4768704</id>
+      <masked>false</masked>
+      <name>nomor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70d8b055-2563-4210-b298-81c545a8f498</id>
+      <masked>false</masked>
+      <name>uidlist</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06b68748-2910-4289-8fce-446b6173139d</id>
+      <masked>false</masked>
+      <name>passlist</name>
+   </variable>
+</TestCaseEntity>

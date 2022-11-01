@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pencarian Populer</description>
+   <name>searchPopular</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d218d77-6a47-44d3-86a4-6311e8265117</testCaseGuid>
+</TestCaseEntity>

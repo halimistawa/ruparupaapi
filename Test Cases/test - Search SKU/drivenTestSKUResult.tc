@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>drivenTestSKUResult</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed754ecb-87e1-4381-a75b-e80fab900402</testCaseGuid>
+   <variable>
+      <defaultValue>'10210007'</defaultValue>
+      <description></description>
+      <id>91abd9c7-a520-4958-99e9-535fca2a08ae</id>
+      <masked>false</masked>
+      <name>skulist</name>
+   </variable>
+   <variable>
+      <defaultValue>'default'</defaultValue>
+      <description></description>
+      <id>84080fa1-6652-4112-bca5-b85a140a7ef6</id>
+      <masked>false</masked>
+      <name>resultRunning</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>1c97f7dc-a0c3-4a8f-b83a-e37808740834</id>
+      <masked>false</masked>
+      <name>nomor</name>
+   </variable>
+</TestCaseEntity>

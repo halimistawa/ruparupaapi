@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login RR</description>
+   <name>APILogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f70ef4c8-f97e-48e3-be30-14b668705675</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>c4a28b16-8db6-40b4-9c8b-595ecc6ccca8</id>
+      <masked>false</masked>
+      <name>nomor</name>
+   </variable>
+   <variable>
+      <defaultValue>'name@gmail.com'</defaultValue>
+      <description></description>
+      <id>2671cd48-b63f-4df0-b867-32b0010c5c2c</id>
+      <masked>false</masked>
+      <name>uidlist</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>2fcc275b-735b-45cd-ba92-fac1c1d3b0f7</id>
+      <masked>false</masked>
+      <name>passlist</name>
+   </variable>
+</TestCaseEntity>

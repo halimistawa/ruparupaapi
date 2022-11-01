@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create File Report Search</description>
+   <name>createFileReport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbe15c70-14a0-4bcc-ace0-e12bf1a4e9fb</testCaseGuid>
+</TestCaseEntity>

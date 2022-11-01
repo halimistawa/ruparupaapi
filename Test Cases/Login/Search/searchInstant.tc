@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Instant</description>
+   <name>searchInstant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03b4c296-46b5-4053-860e-eb2e6f4802a5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5cd57eb-2bd4-44d7-a4c5-5fef1893e8eb</id>
+      <masked>false</masked>
+      <name>sku</name>
+   </variable>
+</TestCaseEntity>

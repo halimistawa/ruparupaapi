@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Display Minicart</description>
+   <name>minicart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef10862b-bfed-4665-8135-3b23d2ec2f0b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3961132b-4e6c-4fa1-86a5-ecd9213d0731</id>
+      <masked>false</masked>
+      <name>uidlist</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c9ae171-2cf2-4146-ae25-21819f16563f</id>
+      <masked>false</masked>
+      <name>passlist</name>
+   </variable>
+</TestCaseEntity>

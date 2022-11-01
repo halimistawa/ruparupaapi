@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Minicart</description>
+   <name>minicartUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48295b0d-b8cf-46ce-a213-2cdfe43f87a3</testCaseGuid>
+   <variable>
+      <defaultValue>'customerB@gmail.com'</defaultValue>
+      <description></description>
+      <id>3f3c8114-5a3c-4d14-91af-61b517ae093d</id>
+      <masked>false</masked>
+      <name>uidlist</name>
+   </variable>
+   <variable>
+      <defaultValue>'cust123'</defaultValue>
+      <description></description>
+      <id>532e9455-8b62-41df-80cb-d6b5b6fadd65</id>
+      <masked>false</masked>
+      <name>passlist</name>
+   </variable>
+   <variable>
+      <defaultValue>'10150789'</defaultValue>
+      <description></description>
+      <id>e379a5fa-dd79-4607-9b3e-b9220ce7ff60</id>
+      <masked>false</masked>
+      <name>sku</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>dfc767bf-897d-4846-9407-9a7c078fe4cd</id>
+      <masked>false</masked>
+      <name>qty</name>
+   </variable>
+</TestCaseEntity>

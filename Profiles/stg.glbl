@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>stg</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Nama File Report Excell</description>
+      <initValue>'Report Flow API Testing RR'</initValue>
+      <name>excelName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Folder Location</description>
+      <initValue>'C:\\\\Users\\\\dharm\\\\OneDrive\\\\Documents\\\\KATALON\\\\Result\\\\Result Flow\\\\'</initValue>
+      <name>locationFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tuguv2'</initValue>
+      <name>stg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://tuguv2.wapi.ruparupastg.my.id'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>dharma@gmail.com</description>
+      <initValue>'customerB@gmail.com'</initValue>
+      <name>uid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cust123'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lcl9pZCI6MjU0MzA1NiwiaWF0IjoxNjQzMjY2MTcxLCJpc3MiOiJ3YXBpLnJ1cGFydXBhIn0.pdBj0N9rlHdv9zpt6B4lYxFtoTLVSTkL6TPrHAOSpLE</description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lcl9pZCI6IjM1NTQwODciLCJpYXQiOjE2NTg3MzQzMTIsImlzcyI6IndhcGkucnVwYXJ1cGEifQ.uU-R6ET_oVO6fKHyqKF6qzlCG4lrpJbald4T4MQRMWo'</initValue>
+      <name>accessToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>8306dc80d95c0864e45d843f240e0827f941f11c</description>
+      <initValue>'1f8434642cbbf84a8569e3d8649dae0c392c0a05'</initValue>
+      <name>minicartID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>10126917 habis</description>
+      <initValue>'10150789'</initValue>
+      <name>sku</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>baris</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cangkir'</initValue>
+      <name>keyword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>qtybefore</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>qtyafter</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

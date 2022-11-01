@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuiteForDataDrivenTestResult</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>3bd0576f-44fb-49be-b311-a06bb7bb17d7</testSuiteGuid>
+   <testCaseLink>
+      <guid>8f95c295-5224-461b-999d-1744322d75f2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/test - Search SKU/createFileReport</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>04383695-8a80-450b-a756-fe647775baf4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/test - Search SKU/drivenTestSKUResult</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>b007488b-aa6d-4e8a-9b9b-488040a83195</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/listSKU/listSKUResult</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>b007488b-aa6d-4e8a-9b9b-488040a83195</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>skuID</value>
+         <variableId>91abd9c7-a520-4958-99e9-535fca2a08ae</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b007488b-aa6d-4e8a-9b9b-488040a83195</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>resultRun</value>
+         <variableId>84080fa1-6652-4112-bca5-b85a140a7ef6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b007488b-aa6d-4e8a-9b9b-488040a83195</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nomor</value>
+         <variableId>1c97f7dc-a0c3-4a8f-b83a-e37808740834</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

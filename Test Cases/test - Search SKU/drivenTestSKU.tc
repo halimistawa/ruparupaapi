@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>drivenTestSKU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b440a6eb-6426-4f64-b5c2-c47feb8936d7</testCaseGuid>
+   <variable>
+      <defaultValue>'10210007'</defaultValue>
+      <description></description>
+      <id>8fcb9478-54e1-4ad0-bdb1-601e3f52ab71</id>
+      <masked>false</masked>
+      <name>skulist</name>
+   </variable>
+</TestCaseEntity>

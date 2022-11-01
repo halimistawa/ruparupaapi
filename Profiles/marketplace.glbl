@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>marketplace</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'marketplacev2.go-order-vendor-v2.ruparupastg.my.id/'</initValue>
+      <name>base_url_go_order</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'marketplacev2.go-auth-vendor.ruparupastg.my.id/'</initValue>
+      <name>base_url_go_auth</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

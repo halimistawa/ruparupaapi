@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Stok &amp; Store</description>
+   <name>stock</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e2a88c8-df65-4510-bfb6-47d8c4e10030</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf06631e-7a46-4644-8112-6fcc1ea12524</id>
+      <masked>false</masked>
+      <name>sku</name>
+   </variable>
+</TestCaseEntity>
